@@ -9,6 +9,11 @@
 The SmartFactory contract is deployed om Flow network (flow Playground ). Once deployed, authorized accounts can interact with the contract's functions.To add product details, an account can call the add_data function, providing the necessary details for a specific product.
 The contract will store the details in the data dictionary under the calling account's address.
 
+## CODE CONTENT
+Contract: Manages product details associated with addresses.
+Transaction: Adds new product details to the contract's data dictionary.
+Script: Retrieves and returns the product details for a given address
+
 ## Implementation:
 The smartfactory contract is used to initiate the details .
 The transaction allows authorized accounts to add product information to the SmartFactory contract.
